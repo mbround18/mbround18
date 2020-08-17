@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+## I am currently working on:
+
+- Python based application for managing Call of Cthulhu characters
+- Teaching Python to my significant other and a few freiends
+
+
+
 
 <!--
 **mbround18/mbround18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
