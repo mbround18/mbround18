@@ -1,5 +1,10 @@
 # Hi there 👋
 
+
+## What I do for fun
+
+- [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
+
 ## In Progress
 
 ### Actively Learning
