@@ -6,7 +6,8 @@
 
 - Svelte, I am working on a svelte frontend for a project. 
 - AlpineJS, Playing around with Alpine for simplified frontends. 
-- Master of Information Systems, University of Phoenix
+- Master of Information Systems
+  - At University of Phoenix
 
 ### Development Projects
 
@@ -24,7 +25,7 @@
  
 - Bachelor of Science in Information Technology 
   - With an Advanced Software Developer Certificate
-  - University of Phoenix 
+  - At University of Phoenix 
 
 ![Dance Party](https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif)
 
