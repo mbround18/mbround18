@@ -23,6 +23,7 @@
 
 ### Education
  
+- AWS Certified Cloud Practitioner
 - Bachelor of Science in Information Technology 
   - With an Advanced Software Developer Certificate
   - At University of Phoenix 
