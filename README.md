@@ -5,11 +5,11 @@
 ### Personal development
 
 - Python based application for managing Call of Cthulhu characters. TBD on Repo.  
-- Teaching Python to my significant other and a few freiends. [Repo Link](https://github.com/mbround18/lets-learn-python-text-adventure)
+- Teaching Python to my significant other and a few freiends. [Check it out here](https://github.com/mbround18/lets-learn-python-text-adventure)
 
 ### Infrastructure
 
-- Automating my rollout to my kubernetes cluster through json configuration. [Repo Link](https://github.com/mbround18/terra-kube)
+- Automating my rollout to my kubernetes cluster through json configuration. [Check it out here](https://github.com/mbround18/terra-kube)
 
 
 
