@@ -22,8 +22,9 @@
 
 ### Education
  
-- Bachelor of Science in Information Technology with an Advanced Software Developer Certificate, University of Phoenix 
-
+- Bachelor of Science in Information Technology 
+  - With an Advanced Software Developer Certificate
+  - University of Phoenix 
 
 ![Dance Party](https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif)
 
