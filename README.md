@@ -1,9 +1,12 @@
 # Hi there 👋
 
+---
 
 ## What I do for fun
 
 - [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
+
+---
 
 ## In Progress
 
@@ -23,6 +26,7 @@
 
 - Automating my rollout to my kubernetes cluster through json configuration. [Check it out here](https://github.com/mbround18/terra-kube)
 
+---
 
 ## Accomplished
 
@@ -32,6 +36,8 @@
 - Bachelor of Science in Information Technology 
   - With an Advanced Software Developer Certificate
   - At University of Phoenix 
+
+---
 
 ![Dance Party](https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif)
 
