@@ -20,11 +20,12 @@
 ### Development Projects
 
 - Python based application for managing Call of Cthulhu characters. TBD on Repo.  
-- Teaching Python to my significant other and a few freiends. [Check it out here](https://github.com/mbround18/lets-learn-python-text-adventure)
+- [Critical Failure](https://github.com/mbround18/critical-failure) for D&D 
 
 ### Infrastructure
 
 - Automating my rollout to my kubernetes cluster through json configuration. [Check it out here](https://github.com/mbround18/terra-kube)
+- Privatized gitlab repos for application deployments into K8s.
 
 ---
 
