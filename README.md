@@ -5,6 +5,8 @@
 ## What I do for fun
 
 - [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
+- [Minecraft Doubletap](https://github.com/mbround18/mc-doubletap)
+- [Minecraft Doubletap Panel](https://github.com/mbround18/mc-doubletap-panel)
 
 ---
 
@@ -56,3 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
