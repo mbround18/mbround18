@@ -7,6 +7,7 @@
 - [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
 - [Minecraft Doubletap](https://github.com/mbround18/mc-doubletap)
 - [Minecraft Doubletap Panel](https://github.com/mbround18/mc-doubletap-panel)
+- [Valheim Server](https://github.com/mbround18/valheim-docker)
 
 ---
 
