@@ -4,10 +4,11 @@
 
 ## What I do for fun
 
+- [Valheim Server](https://github.com/mbround18/valheim-docker)
 - [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
 - [Minecraft Doubletap](https://github.com/mbround18/mc-doubletap)
 - [Minecraft Doubletap Panel](https://github.com/mbround18/mc-doubletap-panel)
-- [Valheim Server](https://github.com/mbround18/valheim-docker)
+
 
 ---
 
@@ -15,8 +16,7 @@
 
 ### Actively Learning
 
-- Svelte, I am working on a svelte frontend for a project. 
-- AlpineJS, Playing around with Alpine for simplified frontends. 
+- Valheim server administration and decompiling dlls to edit game code.  
 - Master of Information Systems
   - At University of Phoenix
 
@@ -24,6 +24,7 @@
 
 - Python based application for managing Call of Cthulhu characters. TBD on Repo.  
 - [Critical Failure](https://github.com/mbround18/critical-failure) for D&D 
+- [Valheim Server](https://github.com/mbround18/valheim-docker)
 
 ### Infrastructure
 
