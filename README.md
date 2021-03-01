@@ -52,6 +52,7 @@
 <a href="https://github.com/AtroposOrbis"><img width=50 src="https://avatars.githubusercontent.com/u/13275296?s=460&v=4" /></a>
 <a href="https://github.com/arevak"><img src="https://avatars.githubusercontent.com/u/839250?s=460&v=4" width=50 /></a>
 
+---
 
 <a href="https://github.com/sponsors/mbround18">
   <img src="https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif" />
