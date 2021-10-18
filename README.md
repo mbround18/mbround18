@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt"GitLab" />
 </a>
 
+<a href="https://links.boop.ninja/discord" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/discord/685039061425061888?label=Discord&style=for-the-badge">
+</a>
+  
 <!-- <a href="" target="_blank">
   <img src="" alt"" />
 </a> -->
