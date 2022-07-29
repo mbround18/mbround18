@@ -38,9 +38,8 @@
 
 ### Actively Learning
 
-- Valheim server administration and decompiling dlls to edit game code.  
-- Master of Information Systems
-  - At University of Phoenix
+- Server administration and decompiling dlls to edit game code.  
+
 
 ### Development Projects
 
@@ -58,7 +57,9 @@
 ## Accomplished
 
 ### Education
- 
+
+- Master of Information Systems
+  - At University of Phoenix
 - AWS Certified Cloud Practitioner
 - Bachelor of Science in Information Technology 
   - With an Advanced Software Developer Certificate
