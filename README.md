@@ -24,6 +24,13 @@
 
 ---
 
+## Goals
+
+- Open Source everything! I aim to keep all my projects open source. [If you are curious to the cost of that click here.](https://github.com/mbround18/oss-development-breakdown)
+- Focus on fun, learning, and expanding my code bases. 
+
+---
+
 ## What I do for fun
 
 - [Valheim Server](https://github.com/mbround18/valheim-docker)
