@@ -76,6 +76,8 @@
 
 ## Sponsors
 
+[Why I ask for sponsors](https://github.com/mbround18/oss-development-breakdown)
+
 <a href="https://github.com/arevak"><img src="https://avatars.githubusercontent.com/u/839250?s=460&v=4" width=50 /></a>
 
 ---
