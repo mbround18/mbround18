@@ -1,6 +1,6 @@
-# Hi there 👋
+# 👋 Hi there 👋
 
-## Connect With Me
+## 🔗 Connect With Me 🔗
 
 <a href="https://links.boop.ninja/linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
@@ -22,9 +22,15 @@
   <img src="" alt"" />
 </a> -->
 
+## ❤️ Support Me ❤️
+
+[Why I ask for sponsors](https://github.com/mbround18/oss-development-breakdown)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81NF8A)
+
 ---
 
-## Goals
+## 🥅 Goals 🥅
 
 - Open Source everything! I aim to keep all my projects open source. [If you are curious to the cost of that click here.](https://github.com/mbround18/oss-development-breakdown)
 - Focus on fun, learning, and expanding my code bases. 
@@ -75,8 +81,6 @@
 ---
 
 ## Sponsors
-
-[Why I ask for sponsors](https://github.com/mbround18/oss-development-breakdown)
 
 <a href="https://github.com/arevak"><img src="https://avatars.githubusercontent.com/u/839250?s=460&v=4" width=50 /></a>
 
