@@ -26,7 +26,12 @@
 
 [Why I ask for sponsors](https://github.com/mbround18/oss-development-breakdown)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81NF8A)
+<a href="https://github.com/sponsors/mbround18">
+  <img alt="GitHub" src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Support%20Me%20on%20GitHub-lightgrey" width=200em>
+</a>
+<a href="https://ko-fi.com/R6R81NF8A">
+  <img alt="Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" width=200em>
+</a>
 
 ---
 
