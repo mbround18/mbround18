@@ -2,6 +2,9 @@
 
 ## 🔗 Connect With Me 🔗
 
+<a href="https://dev.to/mbround18">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
 <a href="https://links.boop.ninja/linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
 </a>
