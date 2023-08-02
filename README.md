@@ -48,10 +48,7 @@
 ## What I do for fun
 
 - [Valheim Server](https://github.com/mbround18/valheim-docker)
-- [Dungeon and Dragons](https://wiki.boop.ninja/#dungeons-and-dragons)
-- [Minecraft Doubletap](https://github.com/mbround18/mc-doubletap)
-- [Minecraft Doubletap Panel](https://github.com/mbround18/mc-doubletap-panel)
-
+- [Dungeon and Dragons](https://github.com/dnd-apps)
 
 ---
 
