@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://www.amazon.com/hz/wishlist/ls/O3G0LKSUFKWL?type=wishlist&filter=unpurchased&sort=priority&viewType=list" target="_blank">
-<img alt="amazon" src="https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-green?style=flat-square&logo=amazon&link=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fwishlist%2Fls%2FO3G0LKSUFKWL%3Ftype%3Dwishlist%26filter%3Dunpurchased%26sort%3Dpriority%26viewType%3Dlist"/>
+<img alt="amazon" src="https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-purple?style=flat-square&logo=amazon&link=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fwishlist%2Fls%2FO3G0LKSUFKWL%3Ftype%3Dwishlist%26filter%3Dunpurchased%26sort%3Dpriority%26viewType%3Dlist"/>
 </a
 
   
