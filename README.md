@@ -36,6 +36,9 @@
   <img alt="Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" width=200em>
 </a>
 
+![Static Badge](https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-green?style=flat-square&logo=amazon&link=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fwishlist%2Fls%2FO3G0LKSUFKWL%3Ftype%3Dwishlist%26filter%3Dunpurchased%26sort%3Dpriority%26viewType%3Dlist)
+
+  
 ---
 
 ## 🥅 Goals 🥅
