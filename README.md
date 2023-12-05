@@ -29,14 +29,16 @@
 
 [Why I ask for sponsors](https://github.com/mbround18/oss-development-breakdown)
 
-<a href="https://github.com/sponsors/mbround18">
+<a href="https://github.com/sponsors/mbround18" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Support%20Me%20on%20GitHub-lightgrey" width=200em>
 </a>
-<a href="https://ko-fi.com/R6R81NF8A">
+<a href="https://ko-fi.com/R6R81NF8A" target="_blank">
   <img alt="Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" width=200em>
 </a>
 
-![Static Badge](https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-green?style=flat-square&logo=amazon&link=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fwishlist%2Fls%2FO3G0LKSUFKWL%3Ftype%3Dwishlist%26filter%3Dunpurchased%26sort%3Dpriority%26viewType%3Dlist)
+<a href="https://www.amazon.com/hz/wishlist/ls/O3G0LKSUFKWL?type=wishlist&filter=unpurchased&sort=priority&viewType=list" target="_blank">
+<img alt="amazon" src="https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-green?style=flat-square&logo=amazon&link=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fwishlist%2Fls%2FO3G0LKSUFKWL%3Ftype%3Dwishlist%26filter%3Dunpurchased%26sort%3Dpriority%26viewType%3Dlist"/>
+</a
 
   
 ---
