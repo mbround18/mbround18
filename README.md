@@ -2,9 +2,6 @@
 
 I'm an open-source enthusiast, learner, and builder passionate about creating innovative solutions. Welcome to my corner of the internet!
 
-[![GitHub-Rank](https://github-ranked.vercel.app/api/rank/mbround18)
-](https://github.com/Shemarhn/Github_Ranked)
-
 ## Connect & Collaborate
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mbround18)
@@ -64,6 +61,9 @@ Your support fuels my innovation! There are several ways to help:
 [![Google AI Essentials Badge](https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/8a5f84aa-49c9-4caa-84eb-a5488722304d)
 
 ## GitHub Stats
+
+[![GitHub-Rank](https://github-ranked.vercel.app/api/rank/mbround18)
+](https://github.com/Shemarhn/Github_Ranked)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbround18&show_icons=true&theme=radical)
 
