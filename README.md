@@ -1,8 +1,11 @@
-# 🚀 Hey There, Adventurers & Innovators! 🚀
+# Hey There! 👋
 
-## 🌟 Let's Connect & Collaborate! 🌟
+I'm an open-source enthusiast, learner, and builder passionate about creating innovative solutions. Welcome to my corner of the internet!
 
-Dive into my digital universe by clicking these badges. Let's explore the realms of technology and innovation together!
+[![GitHub-Rank](https://github-ranked.vercel.app/api/rank/mbround18)
+](https://github.com/Shemarhn/Github_Ranked)
+
+## Connect & Collaborate
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mbround18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://links.boop.ninja/linkedin)
@@ -11,72 +14,56 @@ Dive into my digital universe by clicking these badges. Let's explore the realms
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://links.boop.ninja/gitlab)
 [![Discord](https://img.shields.io/discord/685039061425061888?label=Discord&style=for-the-badge)](https://links.boop.ninja/discord)
 
-## 💖 Fuel My Quest for Innovation 💖
+## Support My Work
 
-Your support helps keep the magic alive! Discover why supporting me on this journey is worthwhile.
+Your support fuels my innovation! There are several ways to help:
 
-[Why I Seek Sponsors](https://github.com/mbround18/oss-development-breakdown)
+- [![GitHub Sponsors](https://img.shields.io/badge/%E2%9D%A4-GitHub%20Sponsors-lightgrey)](https://github.com/sponsors/mbround18)
+- [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81NF8A)
+- [![Amazon Wishlist](https://img.shields.io/badge/Amazon-Support%20with%20Items-purple?style=flat-square&logo=amazon)](https://www.amazon.com/hz/wishlist/ls/O3G0LKSUFKWL?type=wishlist&filter=unpurchased&sort=priority&viewType=list)
 
-[![Support Me on GitHub](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Support%20Me%20on%20GitHub-lightgrey)](https://github.com/sponsors/mbround18)
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81NF8A)
-[![Amazon Wishlist](https://img.shields.io/badge/Amazon-Support_me_with_physical_items%E2%9D%A4%EF%B8%8F-purple?style=flat-square&logo=amazon)](https://www.amazon.com/hz/wishlist/ls/O3G0LKSUFKWL?type=wishlist&filter=unpurchased&sort=priority&viewType=list)
+[Learn more about why I seek sponsors →](https://github.com/mbround18/oss-development-breakdown)
 
----
+## What I'm Passionate About
 
-## 🌈 My Quests & Dreams 🌈
+- **Open Source** — Keeping the spirit of open-source alive through projects anyone can improve upon
+- **Continuous Learning** — Expanding my knowledge daily across new technologies and methodologies
+- **Server Administration** — Building and maintaining robust infrastructure solutions
+- **Game Development & Modding** — Creating magical experiences through code
 
-- **Open Source Champion:** I am on a quest to keep the spirit of open-source alive. My armory is filled with projects for the world to see and improve upon. [Uncover the value of this quest.](https://github.com/mbround18/oss-development-breakdown)
-- **Eternal Learner:** My thirst for knowledge knows no bounds. Every day is an opportunity to learn something new and expand the frontiers of my understanding.
+## Current Projects & Adventures
 
----
+### Learning & Growth
 
-## 🎲 How I Roll - For Fun 🎲
+- Mastering server administration and infrastructure management
+- Exploring game modding and DLL decompilation
 
-- Commanding my own [Valheim Server](https://github.com/mbround18/valheim-docker), where Vikings and creatures collide.
-- Leading epic quests in [Dungeons and Dragons](https://github.com/dnd-apps), where imagination sets the limit.
+### Building
 
----
+- [Valheim Server](https://github.com/mbround18/valheim-docker) — A robust server for Vikings and their adventures
+- [Critical Failure](https://github.com/mbround18/critical-failure) — D&D companion tools
+- [Terra Kube](https://github.com/mbround18/terra-kube) — Kubernetes automation with JSON
+- Python Call of Cthulhu character manager (coming soon)
 
-## 🚀 Current Adventures 🚀
+### Communities
 
-### Expanding My Wisdom
+- Running D&D campaigns and adventures through [DND Apps](https://github.com/dnd-apps)
+- Hosting collaborative gaming experiences
 
-- Mastering server administration and the arcane arts of decompiling DLLs to modify the very fabric of game worlds.
+## Education & Credentials
 
-### Crafting Wonders
+### Degrees
 
-- Conjuring a Python spell to manage Call of Cthulhu characters. Secrets yet to be revealed.
-- Forging [Critical Failure](https://github.com/mbround18/critical-failure), a beacon for D&D enthusiasts.
-- Enhancing my [Valheim Server](https://github.com/mbround18/valheim-docker), a haven for brave Vikings.
-
-### Architecting Realms
-
-- Weaving magic with JSON to automate my Kubernetes kingdom. [Behold the spellbook.](https://github.com/mbround18/terra-kube)
-- Securing my creations in private GitLab repositories, ready to deploy into the K8s wildlands.
-
----
-
-## 🏆 Trophies Unlocked 🏆
-
-### 🎓 **Education Achievements**
 - **Master of Information Systems** — University of Phoenix (Dec 2021)
 - **Graduate Certificate in Cyber Security** — University of Phoenix (Dec 2021)
 - **Bachelor of Science in Information Technology** — University of Phoenix (Mar 2020)
 - **Certificate in Advanced Software Development** — University of Phoenix (Sep 2019)
 
-### 🏅 **Badges & Certifications**
+### Certifications
 
-<a href="https://www.credly.com/badges/8a5f84aa-49c9-4caa-84eb-a5488722304d" target="_blank" rel="noopener noreferrer">
-    <img 
-        src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" 
-        alt="Google AI Essentials" 
-        width="200vw"
-    />
-</a>
+[![Google AI Essentials Badge](https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/8a5f84aa-49c9-4caa-84eb-a5488722304d)
 
----
-
-## ⚔️ GitHub Stats ⚔️
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbround18&show_icons=true&theme=radical)
 
@@ -84,6 +71,6 @@ Your support helps keep the magic alive! Discover why supporting me on this jour
 
 ---
 
-Join me on this exciting adventure, where every click, every support, and every connection is a step towards a more innovative and magical world!
+Thanks for visiting! Let's build something amazing together.
 
-![Let's Make Magic Happen!](https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif) 
+![Let's Make Magic Happen!](https://media1.giphy.com/media/WtDaSUB8GDiRW/giphy.gif?cid=ecf05e478ce65509bcae2b4f667ee0378cd5e1a2ab70584d&rid=giphy.gif)
