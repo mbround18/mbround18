@@ -62,9 +62,6 @@ Your support fuels my innovation! There are several ways to help:
 
 ## GitHub Stats
 
-[![GitHub-Rank](https://github-ranked.vercel.app/api/rank/mbround18)
-](https://github.com/Shemarhn/Github_Ranked)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbround18&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbround18&layout=compact&theme=radical)
